@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+:root {
+  --bg-color: #f9fafb;
+  --surface-color: #ffffff;
+  --muted-surface-color: #f3f4f6;
+  --text-color: #1f2937;
+  --muted-text-color: #6b7280;
+  --accent-color: #3b82f6;
+  --accent-hover-color: #2563eb;
+  --success-color: #10b981;
+  --danger-color: #ef4444;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --focus-ring: 0 0 0 3px rgba(59, 130, 246, 0.5);
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --type-scale-1: 12px;
+  --type-scale-2: 14px;
+  --type-scale-3: 16px;
+  --type-scale-4: 20px;
+  --type-scale-5: 28px;
+  --type-scale-6: 40px;
+  --type-scale-7: 56px;
+}
